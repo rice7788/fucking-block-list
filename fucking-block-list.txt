@@ -1,0 +1,11 @@
+! Title: Fucking Block List
+! Description: Fuck the sites
+! Author: rice7788
+! Updated: 12 Dec 2024
+! Expires: 7 days
+! Homepage: https://github.com/rice7788/fucking-block-list
+! Licence: https://raw.githubusercontent.com/rice7788/fucking-block-list/main/LICENSE.md
+! RAW: https://raw.githubusercontent.com/rice7788/fucking-block-list/main/fucking-block-list.txt
+
+! fuck https://www.4khd.com
+4khd.com##+js(aeld, , preventDefault)
