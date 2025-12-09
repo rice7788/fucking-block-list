@@ -1,13 +1,13 @@
 # Fucking Block List
 A List to Fuck the Sites
 
-## Add (UBo)
-
+## Add Ublock Origin
 ```
-https://raw.githubusercontent.com/rice7788/fucking-block-list/main/fucking-block-list.txt
+https://rice7788.github.io/fucking-block-list/fucking-block-list.txt
 ```
 
-### CDN
+## Alternatives
+1. `https://raw.githubusercontent.com/rice7788/fucking-block-list/main/fucking-block-list.txt`
 1. `https://cdn.jsdelivr.net/gh/rice7788/fucking-block-list@main/fucking-block-list.txt`
-2. `https://cdn.statically.io/gh/rice7788/fucking-block-list/main/fucking-block-list.txt`
-3. `https://raw.githack.com/rice7788/fucking-block-list/main/fucking-block-list.txt`
+1. `https://cdn.statically.io/gh/rice7788/fucking-block-list/main/fucking-block-list.txt`
+1. `https://raw.githack.com/rice7788/fucking-block-list/main/fucking-block-list.txt`
