@@ -1,7 +1,7 @@
 ! Title: Fucking Block List
 ! Description: Fuck the sites
 ! Author: rice7788
-! Updated: 09 Dec 2025
+! Updated: 18 Dec 2025
 ! Expires: 1 days
 ! Homepage: https://rice7788.github.io/fucking-block-list/
 ! Licence: https://rice7788.github.io/fucking-block-list/LICENSE
@@ -17,3 +17,4 @@ misskon.com##+js(aeld, , preventDefault)
 
 www.jkforum.net###append_parent
 www.jkforum.net##.agree18-box
+jkforum.net###apea-tools-age-gate
